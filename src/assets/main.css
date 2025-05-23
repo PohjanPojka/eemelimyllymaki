@@ -2,6 +2,8 @@
 @import "tailwindcss";
 
 @theme {
+  --font-ubuntu: "Ubuntu", sans-serif;
+
   --animate-slot: slot 5s ease-in-out infinite;
 
   @keyframes slot {

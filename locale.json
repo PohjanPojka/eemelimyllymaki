@@ -1,0 +1,89 @@
+{
+    "en": {
+        "header": {
+            "frontPage": "Designing code of the future for",
+            "market1": "entrepreneurs",
+            "market2": "daydreamers",
+            "market3": "cosmopolitans",
+            "market4": "inventors"
+        },
+        "lang": {
+            "en": "English",
+            "fi": "Finnish",
+            "se": "Swedish",
+            "de": "German"
+        },
+        "navbar": {
+            "about": "About me",
+            "services": "Services",
+            "exp": "Experience",
+            "blog": "Blog"
+        }
+    },
+
+    "de": {
+        "header": {
+            "frontPage": "Hier wird die Software der Zukunft entwickelt",
+            "market1": "für Unternehmer*innen",
+            "market2": "für Träumer*innen",
+            "market3": "für Weltbürger*innen",
+            "market4": "für Erfinder*innen"
+        },
+        "lang": {
+            "en": "Englisch",
+            "fi": "Finnisch",
+            "se": "Schwedisch",
+            "de": "Deutsch"
+        },
+        "navbar": {
+            "about": "Über mich",
+            "services": "Leistungen",
+            "exp": "Erfahrung",
+            "blog": "Blog"
+        }
+    },
+
+    "fi": {
+        "header": {
+            "frontPage": "Tulevaisuuden ohjelmointia",
+            "market1": "yrittäjille",
+            "market2": "unelmoijille",
+            "market3": "kansainvälisille",
+            "market4": "keksijöille"
+        },
+        "lang": {
+            "en": "Englanniksi",
+            "fi": "Suomeksi",
+            "se": "Ruotsiksi",
+            "de": "Saksaksi"
+        },
+        "navbar": {
+            "about": "Tietoa minusta",
+            "services": "Palvelut",
+            "exp": "Kokemus",
+            "blog": "Blogi"
+        }
+    },
+
+    "se": {
+        "header": {
+            "frontPage": "Framtidens programmering för",
+            "market1": "entreprenörer",
+            "market2": "drömmare",
+            "market3": "världsmedborgare",
+            "market4": "uppfinnare"
+        },
+        "lang": {
+            "en": "Engelska",
+            "fi": "Finska",
+            "se": "Svenska",
+            "de": "Tyska"
+        },
+        "navbar": {
+            "about": "Om mig",
+            "services": "Tjänster",
+            "exp": "Erfarenheter",
+            "blog": "Blogg"
+        }
+    }
+}
